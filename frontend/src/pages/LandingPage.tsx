@@ -219,7 +219,7 @@ export default function LandingPage() {
                 <div className="hero-content hero-animate" style={{ position: "relative", zIndex: 1, marginLeft: 70, marginBottom: 50 }}>
                     <span className="hero-animate" style={{ background: "rgba(255,255,255,0.15)", color: "#fff", fontSize: 15, fontWeight: 500, padding: "5px 8px", borderRadius: 10, letterSpacing: 1.5, textTransform: "uppercase", display: "inline-block", marginBottom: 12, animationDelay: "0.1s" }}>For Cat People</span>
                     <h1 className="hero-h1 hero-animate" style={{ fontWeight: 900, color: "#fff", lineHeight: 1.1, margin: "0 0 20px", animationDelay: "0.25s" }}>
-                        Every Cat Thinks They're<br />the <span style={{ color: "#F5C842" }}>Boss.</span>
+                        Every Cat Thinks They're the <span style={{ color: "#F5C842" }}>Boss.</span>
                     </h1>
                     <p className="hero-animate" style={{ color: "rgba(255,255,255,0.8)", fontSize: 15, margin: "0 0 26px", animationDelay: "0.4s" }}>We Just Built the App.</p>
                     <div className="hero-animate" style={{ display: "flex", gap: 10, animationDelay: "0.55s" }}>
